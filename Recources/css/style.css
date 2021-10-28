@@ -1,0 +1,19 @@
+.red {color: red;}
+.darkRed {color: darkRed;}
+.maroon {color: maroon;}
+.green {color: green;}
+.lightGreen {color: lightGreen;}
+.limeGreen {color: limeGreen;}
+.darkGreen {color: darkGreen;}
+.blue{color: blue;}
+.lightBlue {color: lightBlue;}
+.darkBlue {color: darkBlue;}
+.teal {color: teal;}
+.orange {color: orange;}
+.darkOrange {color: darkOrange;}
+.yellow {color: yellow;}
+.lightYellow {color: lightYellow;}
+.white {color: white;}
+h1 {font-size: 3rem; text-align: center;}
+h2 {font-size: 2rem;}
+.superBold {font-weight: 900;}
